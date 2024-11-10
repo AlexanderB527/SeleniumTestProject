@@ -9,6 +9,7 @@ public class AddEventFormScoup {
     public static void setup() {
 
         AddEventTestStep.setUp();
+
     }
     @Test
     public void testEventForm1() throws InterruptedException {
